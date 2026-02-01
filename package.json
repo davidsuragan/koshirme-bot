@@ -1,0 +1,15 @@
+{
+  "name": "koshirme-bot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@upstash/redis": "latest",
+    "ab-downloader": "^1.0.1",
+    "axios": "^1.6.0",
+    "cloud-ytdl": "^1.0.5-next",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.0"
+  }
+}
